@@ -1,1 +1,2 @@
 git init -for initilizing repo
+git staus
