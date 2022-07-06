@@ -1,2 +1,9 @@
 git init -for initilizing repo
-git staus
+git status GET untracked files
+git add -A
+git commit -m "msg"
+git remote -v
+git remote add name path
+
+
+
